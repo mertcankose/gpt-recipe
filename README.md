@@ -30,11 +30,4 @@ npm start
 
 You need an API Key from the OpenAI website.
 
-```
-
-
-
-https://github.com/mertcankose/gpt-recipe/web.png
-
-
-```
+![Web Screenshot](https://github.com/mertcankose/gpt-recipe/blob/main/web.png)
