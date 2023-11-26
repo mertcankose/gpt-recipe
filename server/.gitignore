@@ -1,0 +1,65 @@
+# Node.js
+node_modules/
+
+# npm
+*.log
+*.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+pids
+logs
+results
+
+# Debug
+node_modules/
+.jshintrc
+config.gypi
+*.orig
+*.swp
+*.bak
+*.BAK
+*.md.save
+*.lint
+lib-cov
+coverage
+*.lbrary
+*.rbc
+*.yarnclean
+yarn-integrity
+*.pnp.*
+pnp.js
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.sublime-workspace
+*.swn
+*.swo
+
+# Environment variables
+.env
+
+# Compiled binary addons (https://github.com/sindresorhus/binary-addons/blob/master/docs/cleanup.md)
+build/
+
+# Typescript
+*.tsbuildinfo
+*.tsmetadata
+
+# Optional npm cache directory
+.npm
